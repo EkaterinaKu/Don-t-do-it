@@ -1,0 +1,862 @@
+@media screen and (max-width: 1366px) {
+    .body {
+        width: 71.14%;
+    }
+
+    .body.lock {
+        overflow: hidden;
+    }
+
+    .menu {
+        width: 1195.24px;
+        padding: 30px 85px 0 85px;
+    }
+
+    .top_menu {
+        margin-left: 0;
+    }
+
+    .menu_item {
+        display: none;
+    }
+
+    .burger {
+        display: unset;
+    }
+
+    .menu_button {
+        margin-left: 580px;
+    }
+
+    .introduction {
+        margin-left: 150px;
+        width: 1066px;
+    }
+
+    .title_introduction {
+        width: 533px;
+    }
+
+    .title_introduction {
+        width: 533px;
+    }
+
+    .image_introduction {
+        width: 533px;
+    }
+
+    .description {
+        width: 1366px;
+    }
+
+    .content_one_lead {
+        width: 1366px;
+    }
+
+    .pic_content_one {
+        width: 498px;
+    }
+
+    .text_content_one {
+        margin-left: 70px;
+    }
+
+    .info_content_one {
+        width: 498px;
+    }
+
+    .content_two_lead {
+        width: 1366px;
+    }
+
+    .info_content_two {
+        width: 498px;
+    }
+
+    .pic_content_two {
+        margin-left: 70px;
+        width: 498px;
+    }
+
+    .grid_desc {
+        width: 1066px;
+        margin-left: 150px;
+    }
+
+    .title_desc {
+        width: 1366px;
+    }
+
+    .accordion {
+        width: 1366px;
+    }
+
+    .subscribe {
+        width: 1366px;
+    }
+
+    .form_button {
+        margin-left: 483px;
+    }
+
+    .aside {
+        width: 1366px;
+    }
+
+    .box {
+        width: 1366px;
+    }
+
+    .popup {
+        height: 750px;
+    }
+
+    .image_form {
+        width: 250px;
+    }
+
+    .subscribe_form_input {
+        height: 58px;
+    }
+
+    .subscribe_form_select {
+        height: 58px;
+    }
+
+    .subscribe_form_button {
+        height: 58px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .body {
+        width: 1024px;
+    }
+
+    .menu {
+        width: 824px;
+        padding: 30px 100px 0 100px;
+    }
+
+    .logo {
+        height: 35px;
+    }
+
+    .menu_item {
+        display: none;
+    }
+
+    .menu_button {
+        margin-left: 220px;
+    }
+
+    .burger {
+        display: unset;
+    }
+
+    .introduction {
+        margin-left: 112px;
+        width: 800px;
+        padding-top: 100px;
+        padding-bottom: 110px;
+    }
+
+    .title_introduction {
+        width: 800px;
+    }
+
+    .image_introduction {
+        display: none;
+    }
+
+    .description {
+        width: 1024px;
+    }
+
+    .grid_description {
+        grid-template-columns: 2fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+
+    .text_description {
+        width: 400px;
+        font-size: 26px;
+    }
+
+    .content_one_lead {
+        width: 1024px;
+    }
+
+    .pic_content_one {
+        width: 400px;
+    }
+
+    .text_content_one {
+        width: 400px;
+        margin-left: 24px;
+    }
+
+    .info_content_one {
+        width: 400px;
+        font-size: 22px;
+    }
+
+    .content_two_lead {
+        width: 1024px;
+    }
+
+    .info_content_two {
+        width: 400px;
+        font-size: 22px;
+    }
+
+    .pic_content_two {
+        width: 400px;
+        margin-left: 24px;
+    }
+
+    .title_desc {
+        width: 1024px;
+    }
+
+    .grid_desc {
+        width: 800px;
+        margin-left: 112px;
+        grid-template-columns: repeat(2, 2fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
+
+    .text_desc {
+        font-size: 22px;
+    }
+
+
+    .accordion {
+        width: 1024px;
+    }
+
+    .accor_title {
+        font-size: 50px;
+    }
+
+    .tab_item {
+        font-size: 28px;
+    }
+
+    .tab_text {
+        font-size: 22px;
+    }
+
+    .subscribe {
+        width: 1024px;
+        padding-top: 100px;
+        padding-bottom: 104px;
+    }
+
+    .subscribe_heading {
+        font-size: 50px;
+    }
+
+    .form_button {
+        margin-left: 312px;
+    }
+
+    .aside {
+        width: 1024px;
+    }
+
+    .title_aside {
+        font-size: 28px;
+    }
+
+    .text_one {
+        font-size: 20px;
+    }
+
+    .text_two {
+        font-size: 20px;
+    }
+
+    .box {
+        width: 1024px;
+    }
+
+    .scroll_top {
+        right: 40px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .body {
+        width: 768px;
+    }
+
+    .menu {
+        width: 600px;
+        padding: 50px 84px 0 84px;
+    }
+
+    .menu_button {
+        display: none;
+    }
+
+    .burger {
+        display: unset;
+    }
+
+    .introduction {
+        width: 500px;
+        margin-left: 134px;
+    }
+
+    .title_introduction {
+        font-size: 70px;
+        width: 500px;
+    }
+
+    .text_introduction {
+        width: 500px;
+        font-size: 24px;
+    }
+
+    .image_introduction {
+        display: none;
+    }
+
+    .introduction_button {
+        padding: 19px 70px;
+    }
+
+    .description {
+        width: 768px;
+    }
+
+    .content_one_lead {
+        display: flex;
+        flex-direction: column;
+        width: 768px;
+    }
+
+    .pic_content_one {
+        width: 500px;
+        padding-bottom: 45px;
+    }
+
+    .info_content_one {
+        font-size: 22px;
+    }
+
+    .content_two_lead {
+        display: flex;
+        flex-direction: column;
+        width: 768px;
+    }
+
+    .img_content_two {
+        display: unset;
+        width: 500px;
+        padding-top: 72px;
+        padding-bottom: 45px;
+    }
+
+    .info_content_two {
+        font-size: 22px;
+    }
+
+    .pic_content_two {
+        display: none;
+    }
+
+    .grid_desc {
+        width: 700px;
+        margin-left: 34px;
+    }
+
+    .title_desc {
+        width: 768px;
+    }
+
+    .accordion {
+        width: 768px;
+    }
+
+    .accor_title {
+        width: 600px;
+        font-size: 46px;
+    }
+
+    .tab_item {
+        width: 600px;
+    }
+
+    .tab_text {
+        width: 600px;
+    }
+
+    .line {
+        width: 600px;
+    }
+
+    .subscribe {
+        width: 768px;
+    }
+
+    .subscribe_heading {
+        font-size: 46px;
+    }
+
+    .form_button {
+        width: 350px;
+        margin-left: 209px;
+    }
+
+    .aside {
+        width: 768px;
+    }
+
+    .title_aside {
+        font-size: 24px;
+    }
+
+    .text_one {
+        font-size: 22px;
+        width: 700px;
+    }
+
+    .text_two {
+        font-size: 22px;
+        width: 730px;
+    }
+
+    .box {
+        width: 768px;
+        height: 60px;
+    }
+
+    .logo_box {
+        width: 150px;
+        height: 30px;
+    }
+
+    .popup {
+        height: 710px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .body {
+        width: 480px;
+    }
+
+    .menu {
+        width: 400px;
+        padding: 50px 40px 0 40px;
+    }
+
+    .logo {
+        width: 180px;
+        height: 35.69px;
+    }
+
+    .menu_item {
+        display: none;
+    }
+
+    .menu_button {
+        display: none;
+    }
+
+    .introduction {
+        width: 340px;
+        margin-left: 70px;
+    }
+
+    .title_introduction {
+        font-size: 60px;
+        width: 340px;
+    }
+
+    .text_introduction {
+        font-size: 22px;
+        width: 340px;
+    }
+
+    .introduction_button {
+        padding: 19px 60px;
+    }
+
+    .description {
+        width: 480px;
+    }
+
+    .img_description {
+        height: 75px;
+    }
+
+    .text_description {
+        font-size: 22px;
+    }
+
+    .content_one_lead {
+        width: 480px;
+    }
+
+    .pic_content_one {
+        width: 400px;
+    }
+
+    .text_content_one {
+        width: 400px;
+    }
+
+    .slogan_content_one {
+        font-size: 40px;
+    }
+
+    .content_two_lead {
+        width: 480px;
+    }
+
+    .img_content_two {
+        width: 400px;
+    }
+
+    .text_content_two {
+        width: 400px;
+    }
+
+    .slogan_content_two {
+        font-size: 40px;
+    }
+
+    .grid_desc {
+        width: 400px;
+        grid-template-rows: repeat(6, 1fr);
+        grid-template-columns: repeat(1, 2fr);
+        margin-left: 40px;
+    }
+
+    .title_desc {
+        width: 480px;
+        font-size: 42px;
+    }
+
+
+    .accordion {
+        width: 480px;
+        padding-bottom: 110px;
+    }
+
+    .accor_title {
+        width: 400px;
+        font-size: 40px;
+        padding-top: 110px;
+    }
+
+    .tab_item {
+        width: 400px;
+        font-size: 20px;
+    }
+
+    .tab_text {
+        width: 400px;
+        font-size: 16px;
+    }
+
+    .line {
+        width: 400px;
+    }
+
+    .subscribe {
+        width: 480px;
+    }
+
+    .subscribe_heading {
+        font-size: 40px;
+    }
+
+    .form_button {
+        width: 300px;
+        margin-left: 90px;
+    }
+
+    .aside {
+        width: 480px;
+    }
+
+    .title_aside {
+        font-size: 30px;
+    }
+
+    .text_one {
+        width: 440px;
+    }
+
+    .text_two {
+        width: 400px;
+    }
+
+    .box {
+        width: 480px;
+    }
+
+    .scroll_top {
+        display: none;
+    }
+
+    .popup {
+        width: 400px;
+        height: 680px;
+    }
+
+    .image_form {
+        width: 200px;
+    }
+
+    .subscribe_form_input {
+        width: 360px;
+    }
+
+    .subscribe_form_select {
+        width: 360px;
+    }
+
+    .subscribe_form_button {
+        width: 360px;
+    }
+
+    .checkbox_text {
+        width: 300px;
+    }
+
+    .menu_burger {
+        top: 0;
+        transition: right 1s ease;
+        right: -100%;
+    }
+
+    .menu_burger.active {
+        right: 0;
+    }
+
+    .item_menu_burger {
+        font-size: 36px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .body {
+        width: 320px;
+    }
+
+    .menu {
+        width: 280px;
+        padding: 50px 20px 0 20px;
+    }
+
+    .logo {
+        height: 30px;
+        width: 150px;
+    }
+
+    .introduction {
+        width: 300px;
+        margin-left: 10px;
+        padding-top: 50px;
+    }
+
+    .title_introduction {
+        font-size: 40px;
+        width: 300px;
+    }
+
+    .text_introduction {
+        width: 300px;
+        font-size: 20px;
+    }
+
+    .introduction_button {
+        padding: 15px 50px;
+    }
+
+    .description {
+        width: 320px;
+        padding-top: 51px;
+        padding-bottom: 55px;
+    }
+
+    .text_description {
+        width: 280px;
+        font-size: 16px;
+    }
+
+    .content_one_lead {
+        width: 320px;
+    }
+
+    .pic_content_one {
+        width: 280px;
+    }
+
+    .text_content_one {
+        width: 280px;
+        margin-left: 20px;
+    }
+
+    .slogan_content_one {
+        width: 280px;
+        font-size: 30px;
+    }
+
+    .info_content_one {
+        width: 280px;
+        font-size: 16px;
+    }
+
+    .content_two_lead {
+        width: 320px;
+    }
+
+    .img_content_two {
+        width: 280px;
+    }
+
+    .text_content_two {
+        width: 280px;
+        margin-left: 20px;
+    }
+
+    .slogan_content_two {
+        width: 280px;
+        font-size: 30px;
+    }
+
+    .info_content_two {
+        width: 280px;
+        font-size: 16px;
+    }
+
+    .grid_desc {
+        width: 280px;
+        grid-template-rows: repeat(6, 1fr);
+        grid-template-columns: repeat(1, 2fr);
+        margin-left: 20px;
+    }
+
+    .item_grid {
+        padding-left: 20px;
+    }
+
+    .title_desc {
+        width: 320px;
+        font-size: 35px;
+    }
+
+    .text_desc {
+        width: 240px;
+    }
+
+    .accordion {
+        width: 320px;
+    }
+
+    .accor_title {
+        font-size: 35px;
+        width: 280px;
+    }
+
+    .tab_item {
+        width: 280px;
+    }
+
+    .tab_text {
+        width: 280px;
+    }
+
+    .line {
+        width: 280px;
+    }
+
+    .subscribe {
+        width: 320px;
+    }
+
+    .subscribe_heading {
+        font-size: 35px;
+    }
+
+    .form_button {
+        width: 260px;
+        margin-left: 30px;
+    }
+
+    .aside {
+        width: 320px;
+        padding-top: 70px;
+        padding-bottom: 72px;
+    }
+
+    .title_aside {
+        font-size: 25px;
+    }
+
+    .text_one {
+        width: 280px;
+        font-size: 16px;
+    }
+
+    .text_two {
+        width: 300px;
+        font-size: 16px;
+    }
+
+    .box {
+        width: 320px;
+        height: 70px;
+    }
+
+    .logo_box {
+        width: 90px;
+        height: 25px;
+    }
+
+    .scroll_top {
+        display: none;
+    }
+
+    .popup {
+        width: 300px;
+        height: 580px;
+    }
+
+    .image_form {
+        display: none;
+    }
+
+    .popup_heading {
+        padding-top: 40px;
+        font-size: 22px;
+    }
+
+    .subscribe_form_input {
+        width: 280px;
+    }
+
+    .subscribe_form_select {
+        width: 280px;
+    }
+
+    .subscribe_form_button {
+        width: 280px;
+    }
+
+    .checkbox_text {
+        width: 200px;
+        font-size: 30px;
+    }
+
+    .item_menu_burger {
+        padding-top: 45px;
+        font-size: 24px;
+    }
+}
